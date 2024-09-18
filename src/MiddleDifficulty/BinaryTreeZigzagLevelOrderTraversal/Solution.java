@@ -1,4 +1,4 @@
-package BinaryTreeZigzagLevelOrderTraversal;
+package MiddleDifficulty.BinaryTreeZigzagLevelOrderTraversal;
 
 import java.util.*;
 

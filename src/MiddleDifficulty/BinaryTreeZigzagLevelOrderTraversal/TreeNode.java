@@ -1,4 +1,4 @@
-package BinaryTreeZigzagLevelOrderTraversal;
+package MiddleDifficulty.BinaryTreeZigzagLevelOrderTraversal;
 
 public class TreeNode {
     int val;
